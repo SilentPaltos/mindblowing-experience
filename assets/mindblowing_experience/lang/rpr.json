@@ -1,0 +1,21 @@
+{
+  "pack.mindblowing_experience.info": "\n%s\n\n%s\n%s\n",
+  "pack.mindblowing_experience.name": "Mind-Blowing Experience",
+  "pack.mindblowing_experience.description": "Дѣлаетъ возможной смерть отъ мудрости",
+  "pack.mindblowing_experience.author": "Авторъ: %s",
+  "pack.mindblowing_experience.version": "Версія: %s",
+  "pack.mindblowing_experience.get_links": "Ссылки",
+  "pack.mindblowing_experience.links": "\n[%s] [%s] [%s]\n",
+  "pack.mindblowing_experience.link_modrinth": "Modrinth",
+  "pack.mindblowing_experience.link_planetminecraft": "PlanetMinecraft",
+
+  "death.attack.blow_mind": "%s выжилъ изъ ума",
+  "death.attack.blow_mind.item": "%1$s былъ выжитъ изъ ума %2$s, съ помощью %3$s",
+  "death.attack.blow_mind.player": "%1$s выжилъ изъ ума, спасаясь отъ %2$s",
+
+  "advancement.mindblowing_experience.survive_mind_blow.title": "Горе отъ ума",
+  "advancement.mindblowing_experience.survive_mind_blow.description": "Выживите изъ ума и выживите",
+
+  "painting.mindblowing_experience.going_to_the_river.title": "Идущій къ рѣкѣ",
+  "painting.mindblowing_experience.brain_expanding.title": "Расширеніе сознанія"
+}

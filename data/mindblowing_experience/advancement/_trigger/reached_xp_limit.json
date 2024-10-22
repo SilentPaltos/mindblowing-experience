@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "level": { "min": 2147483647 }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mindblowing_experience:advancement/_trigger/reached_xp_limit"
+  }
+}
